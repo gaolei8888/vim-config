@@ -129,3 +129,6 @@
 [submodule "bundle/c.vim"]
 	path = bundle/c.vim
 	url = git@github.com:vim-scripts/c.vim.git
+[submodule "bundle/vim-nerdtree-tabs"]
+	path = bundle/vim-nerdtree-tabs
+	url = https://github.com/jistr/vim-nerdtree-tabs.git
