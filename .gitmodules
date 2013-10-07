@@ -132,3 +132,6 @@
 [submodule "bundle/vim-scala"]
     path = bundle/vim-scala
     url = https://github.com/derekwyatt/vim-scala.git
+[submodule "bundle/sbt-vim"]
+    path = bundle/sbt-vim
+    url = https://github.com/ktvoelker/sbt-vim.git
