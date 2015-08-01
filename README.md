@@ -21,3 +21,5 @@ see the README at [https://github.com/pivotal/tmux-config](https://github.com/pi
 As long as your checkout is kept clean, you can easily update, rebase your local changes and update submodules with:
 
     cd ~/.vim && git pull --rebase ; git submodule update ; cd -
+
+# The end
